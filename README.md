@@ -1,3 +1,4 @@
 # second-project
 Resume Parser System
-This system extract info
+This system extract information from the resume
+
